@@ -1,0 +1,15 @@
+{
+  "name": "wolvesville-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord để tra cứu lịch sử tên Wolvesville",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "axios": "^1.4.0",
+    "mongoose": "^7.0.3",
+    "p-limit": "^3.1.0"
+  }
+}
